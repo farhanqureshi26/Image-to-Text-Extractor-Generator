@@ -1,4 +1,5 @@
-pip install google.generativeai
+pip install google
 pip install pandas 
 pip install streamlit 
 pip install PIL
+pip install os

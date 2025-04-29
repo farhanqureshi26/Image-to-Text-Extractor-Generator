@@ -1,4 +1,6 @@
 streamlit
 Pillow
 google-generativeai
-
+tempfile
+imageio
+cv2

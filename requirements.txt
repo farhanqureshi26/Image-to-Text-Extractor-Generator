@@ -2,5 +2,5 @@ streamlit
 Pillow
 google-generativeai
 imageio
-opencv-python
+opencv-python-headless
 

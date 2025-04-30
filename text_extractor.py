@@ -87,6 +87,7 @@ st.write("Upload an image or video and get details about it.")
 
 upload_image = st.file_uploader("Upload an Image", type=['png','jpg','jpeg'])
 upload_video = st.file_uploader("Upload a Video", type=['mp4','avi','m4v','.3gp'])
+st.write("Make sure you're just uploading maximum 30 seconds video clip")
 query = st.text_input("Write a story or blog for this image")
 
 if st.button("Generate"):
